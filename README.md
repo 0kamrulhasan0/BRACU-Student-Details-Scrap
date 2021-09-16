@@ -3,7 +3,7 @@ This is a Project for Scrapping the Student Details of BRAC Univerisity From Sea
 
 ```
 $ pip3 install --requirement requirements.txt
-$ python3 scrapper.py
+$ python3 main.py
 $ python3 -mpickle Pickle_Archieve/Student_Info_Unstructured.pkl
 ```
 
